@@ -1,2 +1,3 @@
 mc file
 I'd like to change the file
+making second change
